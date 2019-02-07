@@ -1,6 +1,7 @@
 # Android MultiSelect spinner with search
 
-<img src="image/multisearch" />
+<img src="image/multisearch.png" alt="multisearch">
+
 
 ## How to import:
 ### Add it in your root build.gradle in project lavel at the end of repositories:
